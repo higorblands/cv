@@ -1,10 +1,13 @@
-# Personal Website Curriculum
+#Website Curriculum
 
 Personal website full responsive and viewport adapted mobile, tablet, desktop, etc...
 
 If you wanna re-use this example :
+
 1 - Download the repository. 
+
 2 - Open index.html for edit it.
+
 3 - Enjoy.
 
 Preview in Github pages https://higorblands.github.io/cv
